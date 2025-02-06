@@ -1,2 +1,2 @@
 # my-first_project
-hey everyone .Welcome to my github profile.
+Hey everyone .Welcome to my github profile.
